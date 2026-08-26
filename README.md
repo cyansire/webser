@@ -39,7 +39,7 @@ For users on Debian/Ubuntu-based systems (including Termux), `webser` can be ins
 
 ### Installation via Package Manager
 
-> Download the .deb file from [Releases](https://github.com/cyansire/webser/releases/download/v1.1.0/webser.deb)
+> Download the .deb file from [Releases](https://github.com/cyansire/webser/releases/)
 
 To install the `.deb` package, use the following command:
 ```bash
