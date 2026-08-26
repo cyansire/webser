@@ -1,0 +1,98 @@
+-----------------
+v0.1 - Foundation
+-----------------
+• Project structure
+• Main executable
+• webhelp
+• Dependency detection
+• Basic error handling
+• Config folders
+
+-----------------
+v0.2 - Basic Server
+-----------------
+• webstart
+• webstop
+• Python http.server
+• Current directory support
+• Custom directory support
+• Custom file support
+
+-----------------
+v0.3 - Multiple Servers
+-----------------
+• Multiple simultaneous servers
+• PID management
+• Runtime database
+• Port checking
+• webstop <port>
+
+-----------------
+v0.4 - Information
+-----------------
+• weblist
+• webstatus
+• Running time
+• Backend
+• Directory
+• URLs
+
+-----------------
+v0.5 - Logs
+-----------------
+• Hidden logs
+• webshow
+• webhide
+• weblogs
+• webclearlogs
+
+-----------------
+v0.6 - Multiple Backends
+-----------------
+• Flask
+• BusyBox httpd
+• PHP
+• Node http-server
+• Automatic backend selection
+• Manual backend selection
+
+-----------------
+v0.7 - Stability
+-----------------
+• Better error handling
+• Missing dependency detection
+• Install suggestions
+• Crash recovery
+• Root detection
+• Better coloured outputs
+
+-----------------
+v0.8 - Cleanup
+-----------------
+• webclear
+• Cache cleanup
+• Config cleanup
+• Log cleanup
+• Remove dead PIDs
+
+-----------------
+v0.9 - Package
+-----------------
+• Package layout
+• Install script
+• README
+• Version system
+• Config migration
+• Packaging for Termux
+-----------------
+v1.0
+-----------------
+• Stable release
+• Documentation
+• Tested
+• Production ready
+
+-----------------
+v1.1
+-----------------
+✓ Current stable version
