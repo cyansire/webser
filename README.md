@@ -35,7 +35,7 @@ webser/
 
 ### Using Package Manager (recommended)
 
-For users on Debian/Ubuntu-based systems (including Termux), `webser` can be installed directly from the `.deb` package using the system's package manager. This method ensures seamless integration with the system, automatic dependency management, and easy updates if hosted in a repository.
+For users on Debian/Ubuntu-based systems, `webser` can be installed directly from the `.deb` package using the system's package manager. This method ensures seamless integration with the system, automatic dependency management, and easy updates if hosted in a repository.
 
 ### Installation via Package Manager
 
