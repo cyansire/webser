@@ -79,7 +79,7 @@ bash build.sh
 ### Quick install (Termux)
 
 ```bash
-git clone https://github.com/cyansire/webser
+git clone https://github.com/cyansire/webser.git
 cd webser
 bash install.sh
 ```
