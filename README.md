@@ -27,7 +27,7 @@ webser/
 ├── 📑 VERSIONS.txt              # Version history
 ├── 📩 install.sh                # Quick install
 ├── 📁 termux/                   # Termux-specific files
-│ └── 🔧 build.sh           # Build script
+│ └── 🔧 build.sh                # Build script
 ├── 🛠 upcoming-updates.json     # Upcoming features
 └── 📦 webser.sh                 # Main script
 ```
